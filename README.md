@@ -1,3 +1,3 @@
 # hello-world
 
-My dog is the leader his pack!
+My dog is the leader of his pack!
